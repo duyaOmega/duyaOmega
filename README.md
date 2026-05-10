@@ -1,4 +1,4 @@
-# Hi！
+# Hi！欢迎来到我的GitHub主页！👋
 
 该页面已被访问：![该页面已被访问](https://count.getloli.com/@duyaOmega)次
 
