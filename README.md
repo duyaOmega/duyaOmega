@@ -13,4 +13,4 @@
 - 2025~2026：PKU计算机大一，暂时没学会什么东西（x）
 
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=duyaOmega&show_icons=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=duyaOmega&show_icons=true&)
